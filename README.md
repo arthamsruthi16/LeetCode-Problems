@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0002-add-two-numbers](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0006-zigzag-conversion](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
