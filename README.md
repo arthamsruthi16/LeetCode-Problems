@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0029-divide-two-integers](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -154,6 +155,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0045-jump-game-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -222,4 +224,8 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | ------- |
 | [0043-multiply-strings](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
