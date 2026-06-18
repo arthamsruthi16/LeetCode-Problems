@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
