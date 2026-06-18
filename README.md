@@ -96,6 +96,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0035-search-insert-position](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0039-combination-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0039-combination-sum) |
 ## Stack
 |  |
 | ------- |
