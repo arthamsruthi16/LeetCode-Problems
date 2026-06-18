@@ -80,6 +80,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0038-count-and-say](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
