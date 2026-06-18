@@ -175,6 +175,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0046-permutations](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 ## Stack
 |  |
 | ------- |
