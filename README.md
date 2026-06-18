@@ -116,6 +116,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0053-maximum-subarray](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0053-maximum-subarray](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -215,6 +217,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0037-sudoku-solver](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
