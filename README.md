@@ -110,6 +110,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0046-permutations](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0040-combination-sum-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
