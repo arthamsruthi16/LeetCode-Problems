@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0043-multiply-strings](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -117,6 +118,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0054-spiral-matrix](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
