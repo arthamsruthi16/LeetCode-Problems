@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0048-rotate-image](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +84,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0043-multiply-strings](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,6 +214,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -229,6 +232,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | ------- |
 | [0043-multiply-strings](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
