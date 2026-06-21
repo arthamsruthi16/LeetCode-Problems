@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0067-add-binary](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -123,6 +124,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0055-jump-game](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0066-plus-one) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
