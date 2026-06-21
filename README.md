@@ -125,6 +125,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0063-unique-paths-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +230,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0048-rotate-image](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
+| [1672-richest-customer-wealth](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
 | ------- |
