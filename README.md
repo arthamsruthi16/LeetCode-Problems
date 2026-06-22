@@ -88,6 +88,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0044-wildcard-matching](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0067-add-binary) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
@@ -128,6 +129,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
@@ -244,6 +246,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0043-multiply-strings](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0067-add-binary) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Combinatorics
 |  |
 | ------- |
