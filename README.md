@@ -125,6 +125,7 @@ This repository contains my solutions to LeetCode problems solved during my Data
 | [0063-unique-paths-ii](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -249,4 +250,8 @@ This repository contains my solutions to LeetCode problems solved during my Data
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/arthamsruthi16/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
